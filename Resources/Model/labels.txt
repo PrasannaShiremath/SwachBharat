@@ -1,0 +1,7 @@
+0 Nothing
+1 Metal
+2 Plastic
+3 Paper
+4 Glass
+5 Cardboard
+6 E-Waste
